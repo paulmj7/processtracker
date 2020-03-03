@@ -2,13 +2,13 @@
 
 ## Installation
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ## Running
 
-'''bash
+```bash
 chmod +x run.py
 ./run.py
-'''
+```
